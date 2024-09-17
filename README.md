@@ -1,4 +1,15 @@
-# Manual de Uso de Steghide
+<h1 align="center">Manual de Uso de Steghide</h1>
+
+<p align="center">
+  <img src="https://github.com/Gerijacki.png" width="100" alt="Logo"/><br/>
+  Hi 👋, I'm <a href="https://github.com/Gerijacki">Gerijacki</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gerijacki/steghide/stargazers"><img src="https://img.shields.io/github/stars/Gerijacki/passWifi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/steghide/issues"><img src="https://img.shields.io/github/issues/Gerijacki/passWifi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/steghide/contributors"><img src="https://img.shields.io/github/contributors/Gerijacki/passWifi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
 
 ## Introducción
 
@@ -159,6 +170,16 @@ steghide info audio.wav
 ```
 
 ---
+
+<p align="center">
+  <a href="https://github.com/Gerijacki">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gerijacki&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
 
 ## Conclusión
 
