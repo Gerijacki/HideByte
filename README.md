@@ -1,4 +1,4 @@
-<h1 align="center">Manual de Uso de Steghide</h1>
+<h1 align="center">HideByte - Manual de Uso de Steghide</h1>
 
 <p align="center">
   <img src="https://github.com/Gerijacki.png" width="100" alt="Logo"/><br/>
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gerijacki/steghide/stargazers"><img src="https://img.shields.io/github/stars/Gerijacki/passWifi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/Gerijacki/steghide/issues"><img src="https://img.shields.io/github/issues/Gerijacki/passWifi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-  <a href="https://github.com/Gerijacki/steghide/contributors"><img src="https://img.shields.io/github/contributors/Gerijacki/passWifi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/HideByte/stargazers"><img src="https://img.shields.io/github/stars/Gerijacki/passWifi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/HideByte/issues"><img src="https://img.shields.io/github/issues/Gerijacki/passWifi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/HideByte/contributors"><img src="https://img.shields.io/github/contributors/Gerijacki/passWifi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 ## Introducción
