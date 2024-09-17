@@ -170,6 +170,11 @@ steghide info audio.wav
 ```
 
 ---
+## Conclusión
+
+Steghide es una herramienta poderosa para realizar esteganografía de manera segura y eficiente. Su capacidad de compresión, cifrado y compatibilidad con varios formatos de archivo la convierten en una opción ideal para ocultar información confidencial. Solo recuerda utilizar contraseñas seguras y archivos portadores lo suficientemente grandes para evitar una degradación visual o auditiva significativa.
+
+---
 
 <p align="center">
   <a href="https://github.com/Gerijacki">
@@ -181,6 +186,4 @@ steghide info audio.wav
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 
-## Conclusión
 
-Steghide es una herramienta poderosa para realizar esteganografía de manera segura y eficiente. Su capacidad de compresión, cifrado y compatibilidad con varios formatos de archivo la convierten en una opción ideal para ocultar información confidencial. Solo recuerda utilizar contraseñas seguras y archivos portadores lo suficientemente grandes para evitar una degradación visual o auditiva significativa.
